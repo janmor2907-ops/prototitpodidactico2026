@@ -1,0 +1,6 @@
+{
+  "name": "MathVibe - Matemáticas Adaptativas",
+  "description": "Plataforma de aprendizaje matemático adaptativo que considera el desempeño académico, el ritmo de aprendizaje y las emociones del estudiante. Matemáticas que se adaptan a ti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
